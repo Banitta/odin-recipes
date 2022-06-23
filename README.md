@@ -1,0 +1,2 @@
+Title: Odin Project Recipes Assignment
+Introduction: This project is an a assginment from the Odin Project that practices using only basic HTML skills to create a bare recipes website.                                                         
